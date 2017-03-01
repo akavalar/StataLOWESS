@@ -4,7 +4,7 @@
 
 Stata implementation of LOWESS that follows the original Fortran code by Cleveland (making sure that boundary subsets are not decreasing in size).
 
-For details, see here: https://stats.stackexchange.com/questions/262720/lowess-implementation-in-stata-vs-r-and-python
-`ksm_original7.ado` is the `ksm.ado` file found here: http://www.stata.com/support/updates/stata7/ado/.
+For details, see this [Cross Validated post](http://stats.stackexchange.com/questions/262720/lowess-implementation-in-stata-vs-r-and-python).
+`ksm_original7.ado` is the `ksm.ado` file found on [Stata Corp's website](http://www.stata.com/support/updates/stata7/ado/).
 
 ![Illustration](/Example.png?raw=true "Series diverge in the tails")
